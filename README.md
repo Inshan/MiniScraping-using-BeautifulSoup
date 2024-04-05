@@ -1,1 +1,3 @@
-# MiniScraping-using-BeautifulSoup
+Python.
+MiniScraping using BeautifulSoup.
+Simple Code.
